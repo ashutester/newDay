@@ -5,3 +5,5 @@ for(let i=1;i<=10;i++){
 for(let i=10;i>=1;i--){
     console.log(num+' X '+i+" = "+num*i);
 }
+
+//These are the times that we need a table.
