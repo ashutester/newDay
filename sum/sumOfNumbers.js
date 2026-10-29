@@ -7,3 +7,4 @@ avg = sum/arr.length;
 
 console.log("The total sum: "+sum);
 console.log("The calculated average: "+ avg);
+console.log("This is so nice");
